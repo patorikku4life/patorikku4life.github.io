@@ -1,5 +1,3 @@
-# Patrick Tchicali
-
 I am graduate student, member of SHouno Laboratory, at The University of Electro-communications, (UEC) Tokyo. I started in spring of 2019 after I completed my Bachelors in Informatics and Computer Science at the same university. 
 
 ## Research
@@ -8,10 +6,10 @@ I am graduate student, member of SHouno Laboratory, at The University of Electro
 
 ## Education
 
-# Internships
+## Internships
 
-# Projects
+## Projects
 
 ## Resume
 
-# Extra-curicular
+## Extra-curicular
