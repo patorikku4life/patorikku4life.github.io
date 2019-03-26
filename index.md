@@ -1,6 +1,6 @@
 ## Research
 
-My current research interest include;
+My current research interests include;
 
 ### Implemetation of an FPGA-based Markov Chain Monte Carlo (MCMC) system.
 
