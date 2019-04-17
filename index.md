@@ -32,7 +32,8 @@ _Graduate School of Informatics and Engineering (Apr 2019 - Current )_
 
 ### Global Internship Bosch (Yokohama, Ho Chi Minh)
 
-Simulation of automatic braking system on a LABCAR and simulation ECU tests on a LABCAR. 
+* Simulation of automatic braking system on a LABCAR
+* Conducting ECU testing on a LABCAR. 
 
 # Projects
 
