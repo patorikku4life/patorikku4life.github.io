@@ -17,16 +17,16 @@ Currently, I am working on developing a simple system for spectral analysis on F
 # Education
 
 ### Saint Augustine's College, Nso 
-##### GCE Ordinary and Advanced Level in Sciences (Sep 2006 - Aug 2013)
+_GCE Ordinary and Advanced Level in Sciences (Sep 2006 - Aug 2013)_
 
 ### Osaka University 
-##### Center for Japanese Language and Culture, CJLC (Apr 2014 - Mar 2015)
+_Center for Japanese Language and Culture, CJLC (Apr 2014 - Mar 2015)_
 
 ### University of Electro-communications, Tokyo 
-##### Bachelor in Engineering, Informatics and Engineering (Apr 2015 - Mar 2019)
+_Bachelor in Engineering, Informatics and Engineering (Apr 2015 - Mar 2019)_
 
 ### University of Electro-communications, Tokyo 
-##### Graduate School of Informatics and Engineering (Apr 2019 - Current )
+_Graduate School of Informatics and Engineering (Apr 2019 - Current )_
 
 # Internships
 
