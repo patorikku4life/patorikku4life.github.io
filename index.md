@@ -15,7 +15,14 @@ I have achieved so far to built a simple Hasting-Metropolis MCMC system to simul
 
 ## Education
 
+### Saint Augustine's College, Nso (Sep 2006 - Aug 2013)
+### Osaka University (Apr 2014 - Mar 2015)
+### University of Electro-communications, Tokyo (Apr 2015 - Mar 2019)
+### University of ELectro-communications, Tokyo (Apr 2019 - Current )
+
 ## Internships
+
+### Global Internship Bosch (Yokohama, Ho Chi Minh)
 
 ## Projects
 
