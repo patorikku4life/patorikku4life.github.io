@@ -14,6 +14,8 @@ Currently, I am working on developing a simple system for spectral analysis on F
 
 # Papers
 
+None so far
+
 # Education
 
 ### Saint Augustine's College, Nso 
@@ -36,6 +38,8 @@ _Graduate School of Informatics and Engineering (Apr 2019 - Current )_
 * Conducting ECU testing on a LABCAR. 
 
 # Projects
+
+Coming soon.
 
 # Resume
 
