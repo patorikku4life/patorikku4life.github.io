@@ -24,15 +24,27 @@ I have achieved so far to built a simple Hasting-Metropolis MCMC system to simul
 ### University of Electro-communications, Tokyo 
 ##### Bachelor in Engineering, Informatics and Engineering (Apr 2015 - Mar 2019)
 
-### University of ELectro-communications, Tokyo 
+### University of Electro-communications, Tokyo 
 ##### Graduate School of Informatics and Engineering (Apr 2019 - Current )
 
 # Internships
 
 ### Global Internship Bosch (Yokohama, Ho Chi Minh)
 
+Simulation of automatic braking system on a LABCAR and simulation ECU tests on a LABCAR. 
+
 # Projects
 
 # Resume
 
-## Extra-curicular
+Here is a link to my resume. (Coming Soon)
+
+# Extra-curicular
+
+### Ganbaro Miyagi! 
+
+English and camp instructor (2016)
+
+### 留学生が先生！
+
+International student  instructor. (Since 2017)
