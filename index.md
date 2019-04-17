@@ -8,17 +8,21 @@ Developing a faster and more efficient MCMC system, thus making MCMC algorithms 
 
 I have achieved so far to built a simple Hasting-Metropolis MCMC system to simulate a two-dimensional Lenz-Ising Model for my Bachelor's thesis.
 
-### Soil Spectroscopy analysis using unsupervised learning methods.
+### Spectral analysis using Bayesian statistics.
 
 
 ## Papers
 
 ## Education
 
-### Saint Augustine's College, Nso (Sep 2006 - Aug 2013)
-### Osaka University (Apr 2014 - Mar 2015)
-### University of Electro-communications, Tokyo (Apr 2015 - Mar 2019)
-### University of ELectro-communications, Tokyo (Apr 2019 - Current )
+### Saint Augustine's College, Nso 
+#### GCE Ordinary and Advanced Level in Sciences (Sep 2006 - Aug 2013)
+### Osaka University 
+#### Center for Japanese Language and Culture, CJLC (Apr 2014 - Mar 2015)
+### University of Electro-communications, Tokyo 
+#### Bachelor in Engineering, Informatics and Engineering (Apr 2015 - Mar 2019)
+### University of ELectro-communications, Tokyo 
+#### Graduate School of Informatics and Engineering (Apr 2019 - Current )
 
 ## Internships
 
