@@ -10,7 +10,7 @@ I have achieved so far to built a simple Hasting-Metropolis MCMC system to simul
 
 ### Spectral analysis using Bayesian statistics. (FPGA-based)
 
-Currently, I am working on developing a simple system for spectral analysis on FPGA. Several approach to spectral analyses problem exists. In my research I am trying to implement a simple and low-energy consuming version of the approach proposed by ~K. Nagata~ in "Bayesian spectral deconvolution with the exchange Monte Carlo", (Nagata, 2012).
+Currently, I am working on developing a simple system for spectral analysis on FPGA. Several approach to spectral analyses problem exists. In my research I am trying to implement a simple and low-energy consuming version of the approach proposed by _K. Nagata_ in _"Bayesian spectral deconvolution with the exchange Monte Carlo", (Nagata, 2012)_.
 
 # Papers
 
