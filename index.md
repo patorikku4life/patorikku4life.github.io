@@ -1,4 +1,4 @@
-## Research
+# Research
 
 My current research interests include;
 
@@ -11,25 +11,28 @@ I have achieved so far to built a simple Hasting-Metropolis MCMC system to simul
 ### Spectral analysis using Bayesian statistics.
 
 
-## Papers
+# Papers
 
-## Education
+# Education
 
 ### Saint Augustine's College, Nso 
-#### GCE Ordinary and Advanced Level in Sciences (Sep 2006 - Aug 2013)
-### Osaka University 
-#### Center for Japanese Language and Culture, CJLC (Apr 2014 - Mar 2015)
-### University of Electro-communications, Tokyo 
-#### Bachelor in Engineering, Informatics and Engineering (Apr 2015 - Mar 2019)
-### University of ELectro-communications, Tokyo 
-#### Graduate School of Informatics and Engineering (Apr 2019 - Current )
+##### GCE Ordinary and Advanced Level in Sciences (Sep 2006 - Aug 2013)
 
-## Internships
+### Osaka University 
+##### Center for Japanese Language and Culture, CJLC (Apr 2014 - Mar 2015)
+
+### University of Electro-communications, Tokyo 
+##### Bachelor in Engineering, Informatics and Engineering (Apr 2015 - Mar 2019)
+
+### University of ELectro-communications, Tokyo 
+##### Graduate School of Informatics and Engineering (Apr 2019 - Current )
+
+# Internships
 
 ### Global Internship Bosch (Yokohama, Ho Chi Minh)
 
-## Projects
+# Projects
 
-## Resume
+# Resume
 
 ## Extra-curicular
