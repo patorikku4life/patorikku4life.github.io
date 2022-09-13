@@ -1,6 +1,7 @@
 # Resume
 ### Microsoft Japan
-_Industrial & Manufacturing Industry Group - Account Technology Strategist_
+_Industrial & Manufacturing Industry Group_
+_Account Technology Strategist_
 Major products of expertise: _Azure / GitHub / Power Platform_
 
 # Education
