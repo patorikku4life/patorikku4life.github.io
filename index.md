@@ -29,7 +29,7 @@ A community started at Microsoft Japan to provide Japan "Intraprenneurs" with Te
 Former International Student  Instructor. (2017 - 2021)
 
 
-# Universirty Research / Publications
+# University Research / Publications
 
 ### Implemetation of an FPGA-based Markov Chain Monte Carlo (MCMC) system.
 Developing a faster and more efficient MCMC system, thus making MCMC algorithms more practical for real day-to-day problems. In order to achieve this my focus has been laid primarily to FPGAs for thier low energy consumption and the possibility to implement custom float algorithms. 
